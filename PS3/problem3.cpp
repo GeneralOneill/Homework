@@ -22,6 +22,8 @@ using namespace std;
 * DO NOT SIMPLY ASSIGN POINTER1 AND POINTER2 TO THE CORRECT VALUES
 * reference http://www.cplusplus.com/doc/tutorial/pointers/ for additional information on pointers!
 */
+// ztan19
+// 9/25/2015
 
 
 int main() {

@@ -22,7 +22,8 @@ using namespace std;
 * Do not simply reassign variables and delete the lines of code!!!
 * reference http://www.cplusplus.com/doc/tutorial/pointers/ for additional information on pointers!
 */
-
+// ztan19
+// 9/25/2015
 
 int main() {
 	// variable declarations

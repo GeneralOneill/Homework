@@ -23,6 +23,8 @@ using namespace std;
 * you want to make setString do what it is intended to do.
 * reference http://www.cplusplus.com/doc/tutorial/pointers/ for additional information on pointers!
 */
+// ztan19
+// 9/25/2015
 
 //YOU CAN ONLY CHANGE THIS FUNCTION
 void setString(string &address2, string &address3) {
