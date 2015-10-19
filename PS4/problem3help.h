@@ -1,3 +1,7 @@
+// Author ztan19
+
+#ifndef PROBLEM3HELP_H
+#define PROBLEM3HELP_H
 
 #include <string>
 
@@ -15,3 +19,5 @@ std::string problem3help::printQuestion() {
 std::string problem3help::printAnswer() {
 	return "This is the answer for problem 3!";
 }
+
+#endif
