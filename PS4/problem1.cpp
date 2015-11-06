@@ -1,10 +1,6 @@
+// Author ztan19
 #include <iostream>
-class problem1 {
-public:
-	void printQuestion1();
-	void printAnswer1();
-};
-
+#include "problem1.h"
 
 void problem1::printQuestion1() {
 	std::cout << "This is the question for problem 1" << std::endl;

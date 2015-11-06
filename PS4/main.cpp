@@ -1,8 +1,13 @@
 //main function.
-
+#include <iostream>
+#include <string>
+#include "problem1.h"
+#include "problem1.cpp"
 #include "problem2.h"
+#include "problem2.cpp"
 #include "problem3question.h"
 #include "problem3answer.h"
+#include "problem3help.h"
 
 int main() {
 
